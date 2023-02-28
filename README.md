@@ -1,5 +1,5 @@
 # DesafioBuscaViaCEP
 
--Projeto em andamento
--Tratamento de errors ao digitar o cep errado
+-Projeto em andamento<br>
+-Tratamento de errors ao digitar o cep errado<br>
 -Testes
